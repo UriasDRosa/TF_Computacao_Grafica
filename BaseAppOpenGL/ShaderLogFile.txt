@@ -1,0 +1,3 @@
+CShaderManager 1 (../Scene4/Simple.vert) compile error: 0(11) : error C7616: global variable gl_ModelViewProjectionMatrix is removed after version 140
+0(11) : error C7616: global variable gl_Vertex is removed after version 140
+
